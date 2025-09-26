@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "question": "What is the chemical symbol for water?",
+    "choices": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "category": "Geography",
+    "question": "Which is the largest desert in the world?",
+    "choices": [
+      "Sahara",
+      "Gobi",
+      "Kalahari",
+      "Antarctic Desert"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "question": "In which year did the Berlin Wall fall?",
+    "choices": [
+      "1989",
+      "1991",
+      "1985",
+      "1995"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 4,
+    "category": "Technology",
+    "question": "Which programming language is known as the language of the web?",
+    "choices": [
+      "Python",
+      "JavaScript",
+      "C++",
+      "Java"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "category": "Math",
+    "question": "What is the square root of 144?",
+    "choices": [
+      "12",
+      "14",
+      "16",
+      "10"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "category": "General Knowledge",
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "category": "Movies",
+    "question": "Who directed the movie 'Inception'?",
+    "choices": [
+      "Christopher Nolan",
+      "Steven Spielberg",
+      "James Cameron",
+      "Quentin Tarantino"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 8,
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "choices": [
+      "Germany",
+      "Brazil",
+      "France",
+      "Argentina"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "category": "Music",
+    "question": "Which band released the album 'Abbey Road'?",
+    "choices": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Queen",
+      "Pink Floyd"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "category": "Literature",
+    "question": "Who wrote '1984'?",
+    "choices": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "J.K. Rowling"
+    ],
+    "answer": 0
+  }
+]
